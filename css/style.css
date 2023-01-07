@@ -1,0 +1,33 @@
+
+.first-row{
+	background-color: grey;
+	color: white;
+}
+
+.second-row {
+	background-color: #D8B199;
+	border: 20px;
+	border-color: black;
+
+}
+
+
+.text-color{
+	background-color: orange;
+	color: white;
+	border: white;
+}
+
+.third-row {
+	background-color: #D8B199;
+}
+.fourth-row{
+	background-color: #D8B199;
+}
+.fifth-row{
+	background-color: #D8B199;
+
+}
+.sixth-row{
+	background-color: #D8B199;
+}
